@@ -1,0 +1,14 @@
+{
+	"name": "com.seattle-pumpkin-patch",
+	"displayName": "Seattle Pumpkin-patch",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"author": "Do Hoang Than",
+	"description": "Battle",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thandh-3171/seattle-pumpkin-patch.git"
+	}
+}
